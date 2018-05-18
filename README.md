@@ -12,5 +12,6 @@ Output everything in the `build` folder
 
 ## Points
 You get points for
-1. minimizing the nuber of requests
-2. reducing the amount of KB the site uses
+1. minimizing the number of requests
+2. reducing the amount of KB the site uses 
+ 

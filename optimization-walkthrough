@@ -1,0 +1,17 @@
+
+// SITE OPTIMIZATION
+
+
+CSS
+    minify
+    sass
+    autoprefix
+    concatenate
+
+
+JS
+    minify
+    transpile
+    concatenate
+    obfuscate / uglify --> Making code, fundtions, variables etc. unreadable to humans
+
